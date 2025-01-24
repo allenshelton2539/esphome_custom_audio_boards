@@ -24,6 +24,7 @@
 
 #include "esp_log.h"
 #include "board.h"
+#include "jsmn.h"
 #include "audio_mem.h"
 #include "periph_sdcard.h"
 #include "periph_adc_button.h"
